@@ -35,9 +35,9 @@ analytics:
     tracking_id: "UA-92843137-1"
 
 author:
-  name             : "Veronica Maarja"
+  name             : "Veronica"
   avatar           : "/assets/images/bio.png"
-  bio              : "I'm a pianist."
+  bio              : "Pianist"
 
 # Reading Files
 include:
