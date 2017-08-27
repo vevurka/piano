@@ -48,11 +48,11 @@ $type-size-10               : 0.450em !default;  // ~8px
    Colors
    ========================================================================== */
 
-$gray                       : #9C8AA5 /* #7a8288 */ !default;
-$dark-gray                  : #732C7B /* mix(#000, $gray, 40%) */ !default;
-$darker-gray                : #421C52 /*mix(#000, $gray, 60%)*/ !default;
-$light-gray                 : #BDAEC6 /*mix(#fff, $gray, 50%)*/ !default;
-$lighter-gray               : #F1F0FF /* mix(#fff, $gray, 90%)*/ !default;
+$gray                       : #7a8288 !default;
+$dark-gray                  : mix(#000, $gray, 40%) !default;
+$darker-gray                : mix(#000, $gray, 60%) !default;
+$light-gray                 : mix(#fff, $gray, 50%) !default;
+$lighter-gray               : mix(#fff, $gray, 90%) !default;
 
 $body-color                 : #F1F0FF /*#fff*/ !default;
 $background-color           : #F1F0FF /*#fff*/ !default;
