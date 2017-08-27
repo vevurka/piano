@@ -1,0 +1,24 @@
+<script type="text/javascript" src="{{ '/assets/js/main.min.js' | absolute_url }}"></script>
+<script type="text/javascript" src="{{ '/assets/js/jqcloud.min.js' | absolute_url }}"></script>
+
+<script type="text/javascript">
+
+$(function() {
+    var tag_array = [
+{text: "piano", weight: 10, link: "/categories/#piano"},
+];
+    $('#keywords-author').jQCloud(tag_array, {
+        shape: 'rectangular',
+        colors: ["#800026", "#bd0026",  "#e31a1c",],
+        fontSize: {
+            from: 0.15,
+            to: 0.05
+            }
+        });
+
+    $('#keywords-tags').jQCloud(tag_array, {autoResize: true});
+});
+</script>
+
+{% include analytics.html %}
+{% include /comments-providers/scripts.html %}
