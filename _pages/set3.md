@@ -7,79 +7,52 @@ author_profile: true
 
 ### Bach
  
-* Prelude C minor DWK 1 (!)
+* Menuets - choice (?) [3](/set3)
 
 ### Bach-Busoni
  
-* chorale prelude G minor (!!)
+* Chorale Prelude F minor "Ich ruf' zu dir, Herr Jesu Christ" [3](/set3)
 
 ### Beethoven
  
-* Fur Elise (!)
-
-### Transcriptions
- 
-* Symphony no 7 - mvt 2 (!!)
+* Fur Elise [3](/set3) (!) [3](/set3)
 
 ### Chopin
  
-* Ballade F major op. 38 (!!)
-* Nocturne E flat major op. 9 no 2
-* Etude G flat major op. 10 no 5 (!)
-* Mazurka op. 17 no 2 (!)
-* Waltz A minor op. posth (!)
-* Prelude op. 28 no 5
-* Prelude op. 28 no 6
-
-### Debussy
- 
-* Reviere
+* Nocturne E flat major op. 9 no 2 [3](/set3) (!)
+* Etude G flat major op. 10 no 5 [3](/set3) (!!)
+* Etude C minor op. 25 no 12 [3](/set3) (!!)
+* Prelude op. 28 no 6 [3](/set3)
+* Prelude op. 28 no 7 [3](/set3)
 
 ### Grieg
  
-* Peer Gynt - Asa's Death
+* Peer Gynt - Asa's Death (!) [3](/set3)
 
-### Offenbach
+### Pachelbel
  
-* Barcarolle (Tales of Hoffman)
-
-### Mozart
- 
-* Fantasia d minor
-
-### Paderewski
- 
-* Menuet a l'antique
+* Kanon [3](/set3) (!)
 
 ### Saint-Seans
  
-* Swan
+* Swan [3](/set3)
 
 ### Satie
  
-* Gymnopedie 2
-
-### Schubert
- 
-* Unfinished Symphony
-
-### Schumann
- 
-* Rembrance op. 68 no 28
+* Gnossienne 3 [3](/set3)
+* Gymnopedie 3 [3](/set3)
 
 ### Scriabin
  
-* Etude D sharp minor op. 8 nr 12
+* Etude D sharp minor op. 8 nr 12 [3](/set3) (!)
 
-### Rachmaninov
+### Wagner
  
-* Prelude B minor op. 32 no 10
+* Tannhauser - Evening Star [3](/set3) (!)
 
-### Rossini
+### Movie
  
-* William Tell
-
-### Verdi
- 
-* Traviata - drinking song
+* Amelie waltz A minor [3](/set3)
+* Game of Thrones - [2](/set3) Lord of light
+* Teneesse [3](/set3)
 

@@ -1,168 +1,169 @@
-formal_repertoire---
+---
 layout: single
-permalink: /all
-title: "All"
+permalink: /classic-stream
+title: "Classical music"
 author_profile: true
 ---
 
 ### Bach
 
-* Italian Concerto - mvt 2 (!)
-* Prelude C major DWK 1 [1](/set1)
-* Prelude C minor DWK 1 (!) [3](/set3)
-* Prelude C sharp major DWK 1 (!) 
-* Prelude C sharp minor DWK 1 (!)
-* Prelude B flat major DWK 1 (!!)
-* Prelude and Fugue E flat minor DWK 1 (!) [2](/set2)
-* Prelude F minor WTK II (!) [4](/set4)
-* Fantasia Chromatic and Fugue D minor (!!) [5](/set5)
-* Menuets - choice
-* Goldberg Variations - choice (!!)
-
+* Italian Concerto 
+* Prelude C major DWK 1 [1](/set1) [can-play](/can-play)
+* Prelude and Fugue C minor DWK 1 [learning-now](/learning)
+* Prelude C sharp major DWK 1 
+* Prelude C sharp minor DWK 1 
+* Prelude B flat major DWK 1
+* Prelude and Fugue E flat minor DWK 1 (!) [2](/set2) [can-play](/can-play)
+* Prelude F minor WTK II 
+* Fantasia Chromatic and Fugue D minor
+* Menuets - choice (?) [3](/set3) [can-play](/can-play)
+* Goldberg Variations - choice
 
 ### Bach-Busoni
 
-* chorale prelude E flat major (!!) [5](/set5)  
-* chorale prelude G minor (!!) [3](/set3) 
-* chorale prelude F minor [1](/set1)
-* Chaconne D minor
+* chorale prelude E flat major [learning-now](/learning)
+* chorale prelude G minor "Nun Komm der Helden Heiland" [learning-now](/learning)
+* Chorale Prelude F minor "Ich ruf' zu dir, Herr Jesu Christ" [3](/set3) [can-play](/can-play)
+* Chaconne D minor (!!!)(l)
 
 ### Beethoven
 
-* Sonata C minor op. 13 no 2 mvt 2 [2](/set2)
-* Sonata C sharp minor op. 27 no 2 mvt 1 [4](/set4)
+* Sonata C minor op. 13 no 2 mvt 2 (!) [2](/set2) [can-play](/can-play)
+* Sonata C sharp minor op. 27 no 2 mvt 1 [1](/set1) [can-play](/can-play)
+* Sonata C sharp minor op. 27 no 2 mvt 3  [learning-now](/learning)
 * Sonata E minor op. 90 
+* Sonata F minor op. 53
 * Sonata D minor op. 32 no 2 
-* 32 Variations C minor op. 80 - choice (!) [5](/set5)
-* Sonata C sharp minor op. 27 no 2 mvt 3 (!!!)
-* Fur Elise (!) [3](/set3)
-* Minuet in G [1](/set1)
+* 32 Variations C minor op. 80 - choice 
+* Fur Elise [3](/set3) (!) [3](/set3) [can-play](/can-play)
+* Minuet in G [learning-now](/learning)
 
 #### Transcriptions
 
-* Piano Concerto E flat major no 5 - mvt 2 (!) [1](/set1)
-* Symphony no 7 - mvt 2 (!!) [3](/set3)
+* Piano Concerto E flat major no 5 - mvt 2 [learning-now](/learning)
+* Symphony no 7 - mvt 2 [learning-now](/learning)
 
 ### Bizet
 
-* Carmen - Habanera [4](/set4)
+* Carmen - Habanera (?) [learning-now](/learning)
 
 ### Brahms
 
-* Intermezzo A major op. 118 (!) [1](/set1)
-* Intermezzo E flat major op. 117 no 1 [4](/set4)
+* Intermezzo A major op. 118 (!) [2](/set2) [can-play](/can-play)
+* Intermezzo E flat major op. 117 no 1 [learning-now](/learning)
 * Intermezzo op. 117 no 2 B flat minor, 3 C sharp minor
-* Hungarian Dance no 5 [4](/set4)
-
+* Hungarian Dance no 5
 
 ### Chopin
 
-* Ballade G minor op. 23 (!) [1](/set1)
-* Ballade F major op. 38 (!!) [3](/set3)
-* Ballade A flat major op. 47 (!!!)
-* Ballade F minor op. 52 (!) [2](/set2)
-* Scherzo B minor op. 20 (!!) [5](/set5)
-* Scherzo B flat minor op. 39 (!!!)
-* Nocturne B flat minor op. 9 no 1 [1](/set1)
-* Nocturne E flat major op. 9 no 2 [3](/set3)
-* Nocturne G minor op. 37 no 1 [4](/set4)
-* Nocturne F minor op. 55 (!) [2](/set2)
-* Etude C sharp minor op. 10 no 4 (!) [1](/set1)
-* Etude G flat major op. 10 no 5 (!) [3](/set3)
-* Etude F minor op. 10 no 9 (!) [4](/set4)
-* Etude C minor op. 10 no 12 (!) [5](/set5)
-* Etude F minor op. 25 no 2 (!!) 
-* Etude C minor op. 25 no 12 (!) [2](/set2)
-* Etude Nouvelle F minor (!!)
-* Mazurka op. 7 no 1 (!) [2](/set2)
-* Mazurka op. 7 no 2 [5](/set5)
-* Mazurkas op. 6 (!!) 
-* Mazurkas op. 17 no 1 (!) [5](/set5)
-* Mazurka op. 17 no 2 (!) [3](/set3)
-* Mazurka op. 17 no 3 (!) 
-* Mazurka op. 17 no 4 (!) [1](/set1)
-* Fantasia-Impromptus C sharp minor op. 66 (!) [4](/set4)
-* Waltz A minor op. 34 no 2 (!) [5](/set5)
-* Waltz A flat major op. 42 (!!!)
-* Waltz C sharp minor op. 64 no 2 (!) [2](/set2)
-* Waltz A flat major op. 69 no 1 (!) [1](/set1)
-* Waltz B minor op. 69 no 2 (!) 
-* Waltz F minor op. 70 no 2 (!) [4](/set4)
-* Waltz A minor op. posth (!) [3](/set3)
-* Preludes op. 28 (!) no 1 [5](/set5)
-* Prelude op. 28 no 2 [5](/set5), 
-* Prelude op. 28 no 3 [2](/set2)
-* Prelude op. 28 no 4 [2](/set2)
-* Prelude op. 28 no 5 [3](/set3)
-* Prelude op. 28 no 6 [3](/set3)
-* Prelude op. 28 no 7 [1](/set1)
-* Prelude op. 28 no 11 [4](/set4)
-* Prelude op. 28 no 12 [1](/set1)
-* Prelude op. 28 no 20
+* Ballade G minor op. 23  [3](/set1) (!) [can-play](/can-play)
+* Ballade F major op. 38  [learning-now](/learning)
+* Ballade A flat major op. 47 [learning-now](/learning)
+* Ballade F minor op. 52 [2](/set2) (!) [can-play](/can-play)
+* Scherzo B minor op. 20 [learning-now](/learning)
+* Scherzo B flat minor op. 39 
+* Nocturne B flat minor op. 9 no 1 [1](/set1) (!) [can-play](/can-play)
+* Nocturne E flat major op. 9 no 2 [3](/set3) (!) [can-play](/can-play)
+* Nocturne G minor op. 37 no 1 [2](/set2) [can-play](/can-play)
+* Nocturne F minor op. 55 [learning-now](/learning)
+* Etude C sharp minor op. 10 no 4 [2](/set2) (!!) [can-play](/can-play)
+* Etude G flat major op. 10 no 5 [3](/set3) (!!) [can-play](/can-play)
+* Etude F minor op. 10 no 9 [1](/set1) (!!) [can-play](/can-play)
+* Etude C minor op. 10 no 12  [2](/set2) (!!) [can-play](/can-play)
+* Etude F minor op. 25 no 2  
+* Etude C minor op. 25 no 12 [3](/set3) (!!) [can-play](/can-play)
+* Etude Nouvelle F minor 
+* Mazurka op. 7 no 1
+* Mazurka op. 7 no 2
+* Mazurkas op. 6
+* Mazurkas op. 17 no 1
+* Mazurka op. 17 no 2
+* Mazurka op. 17 no 3
+* Mazurka op. 17 no 4 [learning-now](/learning)
+* Fantasia-Impromptus C sharp minor op. 66 (!) [1](/set1) [can-play](/can-play)
+* Waltz A minor op. 34 no 2
+* Waltz A flat major op. 42
+* Waltz C sharp minor op. 64 no 2 [learning-now](/learning)
+* Waltz A flat major op. 69 no 1 [learning-now](/learning)
+* Waltz B minor op. 69 no 2 
+* Waltz F minor op. 70 no 2
+* Waltz A minor op. posth [learning-now](/learning)
+* Preludes op. 28 no 1
+* Prelude op. 28 no 2 [1](/set1) [can-play](/can-play)
+* Prelude op. 28 no 3 
+* Prelude op. 28 no 4 [2](/set2) [can-play](/can-play)
+* Prelude op. 28 no 5 
+* Prelude op. 28 no 6 [3](/set3) [can-play](/can-play)
+* Prelude op. 28 no 7 [3](/set3) [can-play](/can-play)
+* Prelude op. 28 no 11 [2](/set2) [can-play](/can-play)
+* Prelude op. 28 no 12 [learning-now](/learning)
+* Prelude op. 28 no 20 [1](/set1) [can-play](/can-play)
 * Prelude C sharp minor op. 45
-* Sonata B flat minor op. 35 - mvt 3 (!) [5](/set5)
+* Sonata B flat minor op. 35 - mvt 3 [learning-now](/learning)
 
 ### Debussy
 
-* Prelude: The girl with a flaxen hair (!) [1](/set1)
-* Images I: Hommeage a Rameaux [2](/set2)
-* Reviere [3](/set3)
+* Prelude: The girl with a flaxen hair (!) [1](/set1) [can-play](/can-play)
+* Images I: Hommeage a Rameaux [learning-now](/learning)
+* Images I: rest
+* Reviere [learning-now](/learning)
 * Arabesque 
-* Claire de la lune [5](/set5)
-* Humoresque op. 101 no 7  [4](/set4)
+* Clair de la lune [2](/set2) [can-play](/can-play)
+* Humoresque op. 101 no 7 [learning-now](/learning)
 
 ### Delibes
 
-* Valtze Lente (Copelia) [5](/set5)
+* Valtze Lente (Copelia)
 
 ### Faure 
 
-* Romance sans paroles op. 17 no 3 [1](/set2)
+* Romance sans paroles op. 17 no 3
 
 ### Field
 
-* Nocturne [2](/set2)
+* Nocturne
 
 ### Gluck
 
-* Orfeo and Euredice [4](/set4)
+* Orfeo and Euredice
 
 ### Gounod
 
-* Waltz - Faust [1](/set1)
+* Waltz - Faust [1](/set1) (!) [can-play](/can-play)
 
 ### Grieg
 
 * Peer Gynt - choice
-* Peer Gynt - Anitra's Dance [2](/set2)
-* Peer Gynt - Asa's Death [3](/set3)
-
+* Peer Gynt - Anitra's Dance
+* Peer Gynt - Asa's Death (!) [3](/set3) [can-play](/can-play)
+* Peer Gynt - In the hall of the mountain [learning-now](/learning)
+* Peer Gynt - Morning Mood [learning-now](/learning)
 
 ### Haendel
 
-* Largo [2](/set2)
+* Largo [2](/set2) [can-play](/can-play)
 
 ### Elgar
 
-* Salut d'Amour [1](/set1)
+* Salut d'Amour
 
 ### Liszt 
 
 * Etudes op. 1 - choice
-* Funerailles
+* Funerailles 
 * Transcendental Etude: Vision
-* Transcendental Etude: Wilde Jagdt [1](/set1)
-* Liebestraum no 3 [5](/set5)
-* Liszt Consolation [1](/set1)
+* Transcendental Etude: Wilde Jagdt (!!!) [1](/set1) [learning-now](/learning) 
+* Liebestraum no 3  [learning-now](/learning)
+* Liszt Consolation [learning-now](/learning)
 
 ### Offenbach
 
-* Barcarolle (Tales of Hoffman) [3](/set3)
+* Barcarolle (Tales of Hoffman) [learning-now](/learning)
 
 ### Mascagani
 
-* Cavaleria Rusticana - Intermezzo [1](/set1)
-* Cavaleria Rustican - Sicilliana [2](/set2)
+* Cavaleria Rusticana - Intermezzo 
+* Cavaleria Rustican - Sicilliana 
 
 ### Massenet
 
@@ -171,13 +172,14 @@ author_profile: true
 ### Mendelsohn-Bartholdy
 
 * Spring Song
-* Barcarolle (Gondoliers Song)
+* Barcarolle (Gondoliers Song) (?)(a) [learning-now](/learning)
 
 ### Mozart
 
-* Fantasia d minor [3](/set3)
-* Turkish March [2](/set2)
-* Don Juan (Minuet) [5](/set5)
+* Fantasia d minor 
+* Turkish March [learning-now](/learning)
+* Don Juan (Minuet)
+* Sonata B flat major KV 333
 
 ### Musorgski
 
@@ -185,11 +187,11 @@ author_profile: true
 
 ### Pachelbel
 
-* Kanon [4](/set4)
+* Kanon [3](/set3) (!) [can-play](/can-play)
 
 ### Paderewski
 
-* Menuet a l'antique [3](/set3)
+* Menuet a l'antique
 
 ### Prokofiev
 
@@ -197,75 +199,89 @@ author_profile: true
 
 ### Saint-Seans
 
-* Swan [3](/set3)
-* Samson and Delilah - My heart at the sweet voice [4](/set4)
+* Swan [3](/set3) [learning-now](/learning)
+* Samson and Delilah - My heart at the sweet voice
 
 ### Satie 
 
-* Gnossienne 1 [4](/set4)
-* Gnossienne 3 [1](/set1)
-* Gnossienne 4 [2](/set2)
-* Gymnopedie 1 [2](/set2)
-* Gymnopedie 2 [3](/set3) 
-* Gymnopedie 3 [5](/set5)
+* Gnossienne 1 [1](/set1) [can-play](/can-play)
+* Gnossienne 3 [3](/set3) [can-play](/can-play)
+* Gnossienne 4 [2](/set2) [can-play](/can-play)
+* Gymnopedie 1 [1](/set1) [can-play](/can-play)
+* Gymnopedie 2 [2](/set2) [can-play](/can-play)
+* Gymnopedie 3 [3](/set3) [can-play](/can-play)
 
 ### Schubert
 
-* Ave Maria [2](/set2)
-* Moment musicale F minor [4](/set4)
-* Unfinished Symphony [3](/set3)
-* March Militate op. 51 no 1 [4](/set4)
-* Serenade [5](/set5)
-* Rosmunde - Entrance [1](/set1)
+* Ave Maria [learning-now](/learning)
+* Moment musicale F minor
+* Unfinished Symphony 
+* March Militare op. 51 no 1
+* Serenade [2](/set2) (!) [can-play](/can-play)
+* Rosmunde - Entrance [learning-now](/learning)
+* Impromptus (from my book with classical pieces)
 
 ### Schumann
 
-* Sonata G minor op. 22 mvt 2 [4](/set4)
-* Warum? (Why?)
-* Traumerei "Dreaming" - Scenes from childhood op. 15 no 7 [5](/set5)
-* Entrance - Forest Scenes op. 82 no 1
-* Rembrance op. 68 no 28 [3](/set3)
-* Slumber Song op. 124 
+* Sonata G minor op. 22 mvt 2
+* Warum? "Why?" [learning-now](/learning)
+* Traumerei "Dreaming" - Scenes from childhood op. 15 no 7 [1](/set1) [can-play](/can-play)
+* Entrance - Forest Scenes op. 82 no 1 [learning-now](/learning)
+* Rembrance op. 68 no 28 [learning-now](/learning)
+* Slumber Song op. 124 [learning-now](/learning)
 
 
 ### Scriabin    
-* Etude D sharp minor op. 8 nr 12 [3](/set3)
-* Etude C sharp minor op. 45 [2](/set2)
-* Preludes op. 27: B major no 2 [4](/set4)
+
+* Etude D sharp minor op. 8 nr 12 [3](/set3) (!) [can-play](/can-play)
+* Etude C sharp minor op. 45 [1](/set1) (!) [can-play](/can-play)
+* Preludes op. 27: B major no 2 [2](/set2) [can-play](/can-play)
 * Fantasia B minor op. 28 
-* Etude C sharp minor op. 2 no 1 [4](/set4)
-* Prelude F sharp minor op. 9 no 1 [1](/set1)
+* Etude C sharp minor op. 2 no 1
+* Prelude F sharp minor op. 9 no 1 [2](/set2) [can-play](/can-play) 
 
 ### Tschaikowsky 
 
-* Chanson Trise op. 40 no 2 [5](/set5)
+* Chanson Triste op. 40 no 2 [learning-now](/learning)
+* Seasons ?
 
 ### Rachmaninov    
 
 * Vocalize 
 * Elegie E flat minor op. 3 no 1
-* Prelude C sharp minor op. 3 no 2 [5](/set5)
-* Prelude G minor op. 23 no 5 [2](/set2)
+* Prelude C sharp minor op. 3 no 2 [learning-now](/learning)
+* Prelude G minor op. 23 no 5 [learning-now](/learning)
 * Etude A minor op. 39 nr 2
-* Fragments [1](/set1)
-* Moment Musicaux E minor op. 16 [4](/set4)
-* Prelude B minor op. 32 no 10 [3](/set3) 
-* Prelude D major op. 23 no 4 [2](/set2)
+* Fragments [1](/set1) [can-play](/can-play)
+* Moment Musicaux E minor op. 16 [learning-now](/learning)
+* Prelude B minor op. 32 no 10 [learning-now](/learning)
+* Prelude D major op. 23 no 4 [learning-now](/learning)
 
 ### Rossini
 
-* William Tell [3](/set3)
+* William Tell [learning-now](/learning)
 
 ### Verdi
 
-* Il trovatore (miserere, anvil chorus,)
-* Aida (celeste aida, grand march)
-* Aida - Grand March [2](/set2)
-* Traviata - drinking song [3](/set3)
-* 
+* Il trovatore (miserere, anvil chorus)
+* Aida - Celeste Aida
+* Aida - Grand March [2](/set2) (!) [can-play](/can-play)
+* Traviata - Drinking Song [learning-now](/learning)
+* Rigoletto - La donna e mobile [learning-now](/learning)
 
 ### Wagner
 
-* Lohengrin (bridal march) [4](/set4)
-* Tannhauser - evening star [5](/set5) 
-* Tannhauser - grand march) [1](/set1)
+* Lohengrin - Bridal March [learning-now](/learning)
+* Tannhauser - Evening Star [3](/set3) (!) [can-play](/can-play)
+* Tannhauser - Grand March 
+
+### Movie
+
+* Amelie waltz E minor [1](/set1) [can-play](/can-play)
+* Amelie waltz A minor [3](/set3) [can-play](/can-play)
+* Interstellar theme [1](/set1) [can-play](/can-play)
+* Game of Thrones - [2](/set3) Lord of light [can-play](/can-play)
+* Moon river [learning-now](/learning)
+* God father theme [learning-now](/learning)
+* Greensleves [2](/set2) [/can-play](/can-play)
+* Teneesse [3](/set3) [can-play](/can-play)

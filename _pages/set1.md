@@ -7,72 +7,52 @@ author_profile: true
 
 ### Bach
  
-* Prelude C major DWK 1
-
-### Bach-Busoni
- 
-* chorale prelude F minor
+* Prelude C major DWK 1 [1](/set1)
 
 ### Beethoven
  
-* Minuet in G
-
-### Transcriptions
- 
-* Piano Concerto E flat major no 5 - mvt 2 (!)
-
-### Brahms
- 
-* Intermezzo A major op. 118 (!)
+* Sonata C sharp minor op. 27 no 2 mvt 1 [1](/set1)
 
 ### Chopin
  
-* Ballade G minor op. 23 (!)
-* Nocturne B flat minor op. 9 no 1
-* Etude C sharp minor op. 10 no 4 (!)
-* Mazurka op. 17 no 4 (!)
-* Waltz A flat major op. 69 no 1 (!)
-* Prelude op. 28 no 7
-* Prelude op. 28 no 12
+* Ballade G minor op. 23 [3](/set1) (!)
+* Nocturne B flat minor op. 9 no 1 [1](/set1) (!)
+* Etude F minor op. 10 no 9 [1](/set1) (!!)
+* Fantasia-Impromptus C sharp minor op. 66 (!) [1](/set1)
+* Prelude op. 28 no 2 [1](/set1)
+* Prelude op. 28 no 20 [1](/set1)
 
 ### Debussy
  
-* Prelude: The girl with a flaxen hair (!)
+* Prelude: The girl with a flaxen hair (!) [1](/set1)
 
 ### Gounod
  
-* Waltz - Faust
-
-### Elgar
- 
-* Salut d'Amour
+* Waltz - Faust [1](/set1) (!)
 
 ### Liszt
  
-* Transcendental Etude: Wilde Jagdt
-* Liszt Consolation
-
-### Mascagani
- 
-* Cavaleria Rusticana - Intermezzo
+* Transcendental Etude: Wilde Jagdt (!!!) [1](/set1)
 
 ### Satie
  
-* Gnossienne 3
+* Gnossienne 1 [1](/set1)
+* Gymnopedie 1 [1](/set1)
 
-### Schubert
+### Schumann
  
-* Rosmunde - Entrance
+* Traumerei "Dreaming" - Scenes from childhood op. 15 no 7 [1](/set1)
 
 ### Scriabin
  
-* Prelude F sharp minor op. 9 no 1
+* Etude C sharp minor op. 45 [1](/set1) (!)
 
 ### Rachmaninov
  
-* Fragments
+* Fragments [1](/set1)
 
-### Wagner
+### Movie
  
-* Tannhauser - grand march)
+* Amelie waltz E minor [1](/set1)
+* Interstellar theme [1](/set1)
 
