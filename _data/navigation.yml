@@ -1,7 +1,6 @@
 main:
   - title: "About"
     url: /about
-rep:
   - title: "Repertoire"
     url: /repertoire
 

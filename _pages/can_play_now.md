@@ -1,6 +1,6 @@
 ---
 layout: single
-permalink: /repertoire
+permalink: /repertoire/
 title: "Repertoire"
 author_profile: true
 ---
