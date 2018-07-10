@@ -41,7 +41,7 @@ def generate_set_list(composer_pieces_dict, set_name):
         print("set ", set_name, " has ", len(pieces_in_set))
 
 if __name__ == "__main__":
-    repertoire_page = 'classic_stream_repertoire.md' # #  #
+    repertoire_page = 'classic_stream_repertoire.md'
     number_of_sets = 5
     set_list = ['set' + str(i) for i in range(1, number_of_sets + 1)] + ['can-play', 'learning']
     with open(repertoire_page, 'r') as f:

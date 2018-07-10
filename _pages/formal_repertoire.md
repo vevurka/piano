@@ -7,67 +7,70 @@ author_profile: true
 
 ### Bach
 
-* Concerto F minor
+* Concerto F Minor
 * Inventions
 * Italian Concerto
-* Prelude and Fuguetta D minor
-* Prelude and Fugue C sharp major DWK I  
-* Prelude and Fugue E flat minor DWK 1
-* Prelude and Fugue G sharp minor DWK I
-* Prelude and Fugue E flat minor DWK II
-* Prelude and Fugue F minor WTK II 
-* Toccata E minor
+* Prelude and Fuguetta D Minor
+* Prelude and Fugue C minor DWK I
+* Prelude and Fugue C Sharp Major DWK I
+* Prelude and Fugue E Flat Minor DWK 1
+* Prelude and Fugue G Sharp Minor DWK I
+* Prelude and Fugue E Flat Minor DWK II
+* Prelude and Fugue F Minor WTK II 
+* Toccata E Minor
+* Partita B Flat Major
 
 ### Bach-Busoni
 
-* 3 chorale preludes: E flat major, G minor, F minor
+* 3 chorale preludes: E Flat Major, G Minor, F Minor
 
 ### Beethoven
 
-* Sonata F minor op. 2 nr 1
-* Sonata F major op. 10 nr 2
-* Sonata G major op. 31 nr 1 (I mov)
-* Sonata D minor op. 31 nr 2
-* Sonata G major op. 49 no 2
-* Sonata E minor op. 90
-* Sonata A flat major op. 81a
-* Sonata A flat major op. 110
+* Sonata F Minor op. 2 nr 1
+* Sonata F Major op. 10 nr 2
+* Sonata C# Minor op. 27 no 2
+* Sonata G Major op. 31 nr 1 (I mov)
+* Sonata D Minor op. 31 nr 2
+* Sonata G Major op. 49 no 2
+* Sonata E Minor op. 90
+* Sonata A Flat Major op. 81a
+* Sonata A Flat Major op. 110
 
 ### Brahms
 
-* Intermezzo A major op. 118
+* Intermezzo A Major op. 118
 
 ### Chopin
 
-* Concerto F minor op. 21
-* Ballade G minor op. 23
-* Ballade F major op. 38
-* Ballade A flat major op. 47
-* Ballade F minor op. 52
-* Scherzo B minor op. 20
-* Scherzo B flat minor op. 39
-* Nocturne B flat minor op. 9 no 1
-* Nocturne E flat major op. 9 no 2
-* Nocturne B major op. 9 no 3
-* Nocturne G minor op. 37 no 2
-* Nocturne F minor op. 55
-* Etude C sharp minor op. 10 no 4
-* Etude G flat major op. 10 no 5
-* Etude F minor op. 10 no 9
-* Etude C minor op. 10 no 12
-* Etude F minor op. 25 no 2
-* Etude C minor op. 25 no 12
-* Etude Nouvelle F minor
+* Concerto F Minor op. 21
+* Ballade G Minor op. 23
+* Ballade F Major op. 38
+* Ballade A Flat Major op. 47
+* Ballade F Minor op. 52
+* Scherzo B Minor op. 20
+* Scherzo B Flat Minor op. 39
+* Nocturne B Flat Minor op. 9 no 1
+* Nocturne E Flat Major op. 9 no 2
+* Nocturne B Major op. 9 no 3
+* Nocturne G Minor op. 37 no 2
+* Nocturne F Minor op. 55
+* Etude C Sharp Minor op. 10 no 4
+* Etude G Flat Major op. 10 no 5
+* Etude F Minor op. 10 no 9
+* Etude C Minor op. 10 no 12
+* Etude F Minor op. 25 no 2
+* Etude C Minor op. 25 no 12
+* Etude Nouvelle F Minor
 * Mazurkas op. 6
 * Mazurkas op. 17
-* Fantasia-Impromptus C sharp minor op. 66
+* Fantasia-Impromptus C Sharp Minor op. 66
+* Impromptus Ab Major op. 29
 
 
 ### Debussy
 
 * Prelude: The girl with a flaxen hair
-* Images I: Hommeage a Rameaux
-* Images I: all
+* Images I
 
 ### Da Falla
 
@@ -75,16 +78,17 @@ author_profile: true
 
 ### Liszt 
 
-* Etude A minor op. 1 no 2
+* Etude A Minor op. 1 no 2
 * Funerailles
-* Transcendental Etude: Vision 
+* Transcendental Etude: Vision, Wilde Jagt
+* Liszt-Paganini Etude La chase
 
 ### Mozart
 
-* Piano Concerto E flat major KV ?
-* Fantasia d minor
-* Sonata C major KV 545
-* Sonata B flat major KV 333
+* Piano Concerto E Flat Major no 22 KV 482
+* Fantasia D Minor KV 397
+* Sonata C Major KV 545
+* Sonata B Flat Major KV 333
 
 ### Prokofiev
 
@@ -92,25 +96,25 @@ author_profile: true
 
 ### Scarlatti
 
-* Sonata E minor nr ?
+* Sonata E Minor nr ?
 
 ### Schumann
 
-* Sonata G minor op. 22
+* Sonata G Minor op. 22
 
 ### Scriabin    
-* Etude D sharp minor op. 8 nr 12
-* Etude C sharp minor op. 45
+* Etude D Sharp Minor op. 8 nr 12
+* Etude C Sharp Minor op. 45
 * Preludes op. 27
-* Fantasia B minor op. 28
+* Fantasia B Minor op. 28
 
 ### Rachmaninov    
 
-* Etude A minor op. 39 nr 2
+* Etude A Minor op. 39 nr 2
 * Fragments
-* Moment Musicaux e minor op. 16
-* Sonata B flat minor op. 36
+* Moment Musicaux e Minor op. 16
+* Sonata B Flat Minor op. 36
 
 ### Ravel
 
-* Sonatine
+* Sonatine F Sharp Minor
